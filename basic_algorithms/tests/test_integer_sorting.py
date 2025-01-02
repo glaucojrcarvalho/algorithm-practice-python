@@ -1,4 +1,4 @@
-from ..integer_sorting import Sorting
+from basic_algorithms.integer_sorting import Sorting
 
 class Test:
 
